@@ -1,2 +1,2 @@
-# thirukural
+# Thirukural
 திருக்குறள்
